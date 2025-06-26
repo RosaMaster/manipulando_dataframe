@@ -1,0 +1,14 @@
+empresa,cnpj,contato_id,contato_tipo,contato_valor,contato_status,finalidade_nome,finalidade_status
+Viagem e Turismo Ltda,12345678000190,1,email,email1@gmail.com,ativo,geral,ativo
+Viagem e Turismo Ltda,12345678000190,1,email,email1@gmail.com,ativo,atendimento,ativo
+Viagem e Turismo Ltda,12345678000190,2,telefone,11988886666,ativo,comercial,ativo
+Viagem e Turismo Ltda,12345678000190,3,email,email2@gmail.com,inativo,suporte,ativo
+Viagem e Turismo Ltda,12345678000190,3,email,email2@gmail.com,inativo,marketing,inativo
+Viagem e Turismo Ltda,12345678000190,4,telefone,11988887777,ativo,suporte,ativo
+Viagem e Turismo Ltda,12345678000190,4,telefone,11988887777,ativo,emergencia,ativo
+Viagem e Turismo Ltda,12345678000190,5,email,email3@gmail.com,ativo,vendas,ativo
+Metalúrgica S.A.,98765432000101,6,telefone,11922221111,ativo,geral,ativo
+Metalúrgica S.A.,98765432000101,7,email,email5@gmail.com,ativo,rh,ativo
+Metalúrgica S.A.,98765432000101,8,telefone,11922223333,inativo,financeiro,ativo
+Metalúrgica S.A.,98765432000101,9,email,email6@gmail.com,ativo,compras,ativo
+Metalúrgica S.A.,98765432000101,10,telefone,11922224444,ativo,recepcao,ativo
